@@ -208,6 +208,7 @@ git push -u origin main
 - Under Pipeline script from SCM:
 - SCM: Git
 - Repository URL: your GitHub repo URL
+- In the "Branch Specifier" field, change the default value from */master to */main to match your GitHub branch name.
 - Script Path: app/Jenkinsfile
 - Click Save, then Build Now
 
