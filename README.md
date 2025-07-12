@@ -43,12 +43,12 @@ flask-ci-cd-jenkins/
 
 ## Tools & Technologies Used
 
-**Terraform –** Infrastructure as Code (IaC)
-**AWS EC2 –** Hosting Jenkins and the Flask app
-**Jenkins –** Continuous Integration and Deployment
-**Docker –** Containerizing the Flask application
-**GitHub –** Source Code Management
-**Flask –** Python-based web application framework
+- **Terraform –** Infrastructure as Code (IaC)
+- **AWS EC2 –** Hosting Jenkins and the Flask app
+- **Jenkins –** Continuous Integration and Deployment
+- **Docker –** Containerizing the Flask application
+- **GitHub –** Source Code Management
+- **Flask –** Python-based web application framework
 
 ---
 
@@ -163,9 +163,9 @@ Jenkins → Manage Jenkins → Credentials → Global → Add Credentials
 
 ID: dockerhub-credentials
 
-Username: <your-dockerhub-username>
+Username: your-dockerhub-username
 
-Password: <DockerHub personal access token>
+Password: DockerHub personal access token
 
 **How to Create a Docker Hub Personal Access Token**
 
