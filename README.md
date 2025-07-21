@@ -218,9 +218,15 @@ git push -u origin main
 
 You now have a complete CI/CD pipeline for a Flask application using Jenkins, Docker, and Terraform on AWS
 
-## Author
+## About Me
 
-Sushmitha A
+Hey there! I’m Sushmitha, an aspiring DevOps Engineer passionate about automating infrastructure and streamlining deployments.
 
-Passionate DevOps Learner
+Currently, I’m building hands-on projects to master the DevOps lifecycle — from infrastructure as code to CI/CD and monitoring.
 
+Always eager to learn, experiment, and take on new challenges in the cloud and DevOps world.
+
+**Let’s connect!**
+
+- **LinkedIn:** www.linkedin.com/in/sushmitha-ande
+- **GitHub:** https://github.com/Sushmitha6300
